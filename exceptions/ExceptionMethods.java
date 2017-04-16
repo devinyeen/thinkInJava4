@@ -1,3 +1,5 @@
+package exceptions;
+
 //: exceptions/ExceptionMethods.java
 // Demonstrating the Exception Methods.
 import static net.mindview.util.Print.*;
