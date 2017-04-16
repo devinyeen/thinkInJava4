@@ -104,7 +104,8 @@ public class DynamicFields {
             e.printStackTrace(System.out);
         }
     }
-} /* Output:
+}
+/* Output:
 null: null
 null: null
 null: null
